@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 6/05/2017 11:26:58 AM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="modelo.Fungicida" table="fungicida" catalog="bdinvernadero" optimistic-lock="version">
+        <id name="idFungicida" type="java.lang.Integer">
+            <column name="id_fungicida" />
+            <generator class="identity" />
+        </id>
+        <property name="nomFungicida" type="string">
+            <column name="nom_fungicida" length="50" not-null="true" />
+        </property>
+        <property name="cantFungicida" type="int">
+            <column name="cant_fungicida" not-null="true" />
+        </property>
+        <property name="presentacionFun" type="string">
+            <column name="presentacion_fun" length="50" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>

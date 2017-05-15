@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/modelo/Insecticida.hbm.xml</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/modelo/Planta.hbm.xml</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/web/vista/html/modificaciones/buscarinsecticidamodi.xhtml</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/modelo/Herbicida.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/dao/InsecticidaDAO.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/web/index.xhtml</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/web/vista/html/modificaciones/buscarherbicidamodi.xhtml</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/dao/HibernatePlantaDAO.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/dao/HerbicidaDAO.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/modelo/Fungicida.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/web/vista/html/modificaciones/buscarplantamodi.xhtml</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/dao/HibernateAdministradorDAO.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/modelo/Insecticida.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/dao/HibernateUsuarioDAO.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/dao/HibernateInsecticidaDAO.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/dao/AdministradorDAO.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/util/HibernateSession.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/Controlador/EliminarFungicidas.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/dao/FungicidaDAO.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/Controlador/EliminarFungicidas1.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/dao/PlantaDAO.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/web/vista/html/inventario.xhtml</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/modelo/Fungicida.hbm.xml</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/Controlador/EliminarHerbicidas.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/modelo/Planta.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/dao/HibernateHerbicidaDAO.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/modelo/Administrador.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/modelo/Herbicida.hbm.xml</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/modelo/Usuario.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/hibernate.reveng.xml</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/web/vista/html/modificaciones/buscarfungicidamodi.xhtml</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/modelo/Administrador.hbm.xml</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/modelo/Usuario.hbm.xml</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/dao/UsuarioDAO.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/modelo/Area.hbm.xml</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/modelo/Area.java</file>
+            <file>file:/Users/macbook/Documents/octavo/Frameworks/Practica2/src/java/dao/HibernateFungicidaDAO.java</file>
+        </group>
+    </open-files>
+</project-private>

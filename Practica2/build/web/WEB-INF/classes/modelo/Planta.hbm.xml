@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 6/05/2017 11:26:58 AM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="modelo.Planta" table="planta" catalog="bdinvernadero" optimistic-lock="version">
+        <id name="idPlanta" type="java.lang.Integer">
+            <column name="id_planta" />
+            <generator class="identity" />
+        </id>
+        <property name="nomPlanta" type="string">
+            <column name="nom_planta" length="50" not-null="true" unique="true" />
+        </property>
+        <property name="descripcionPlanta" type="string">
+            <column name="descripcion_planta" length="250" not-null="true" />
+        </property>
+        <property name="imagenPlanta" type="binary">
+            <column name="imagen_planta" not-null="true" />
+        </property>
+        <property name="fechaCultivo" type="date">
+            <column name="fecha_cultivo" length="10" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>

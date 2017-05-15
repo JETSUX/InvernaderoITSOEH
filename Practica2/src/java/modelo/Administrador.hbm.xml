@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 6/05/2017 11:26:58 AM by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="modelo.Administrador" table="administrador" catalog="bdinvernadero" optimistic-lock="version">
+        <id name="idAdmin" type="java.lang.Integer">
+            <column name="id_admin" />
+            <generator class="identity" />
+        </id>
+        <property name="nomAdmin" type="string">
+            <column name="nom_admin" length="128" not-null="true" />
+        </property>
+        <property name="cargoAdmin" type="string">
+            <column name="cargo_admin" length="128" not-null="true" />
+        </property>
+        <property name="passAdmin" type="string">
+            <column name="pass_admin" length="10" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>
